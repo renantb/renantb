@@ -1,8 +1,6 @@
-### Hi there 👋
-
 # Renan Trevezani Bastos
 
-
+### Hi there 👋
 
 I am Renan and I love tecnology and help people!
 
