@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Javascript, Nodejs, Reactjs, React Native, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/renantb](https://github.com/renantb)
+- 👨‍💻 All of my projects are available at: [https://github.com/renantb](https://github.com/renantb)
 
-- 📫 How to reach me **The badges will help you**
+- 📫 How to reach me: **The badges will help you 😊**
 
 - ⚡ About me:  **I like 📱 travels ✈️ football ⚽ and rock 🎸**
 
