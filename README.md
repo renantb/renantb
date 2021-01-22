@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **The badges will help you 😊**
 
-- ⚡ About me:  **I like 📱 travels ✈️ football ⚽ and rock 🎸**
+- ⚡ About me:  **I like  tecnology 📱 travels ✈️ football ⚽ and rock 🎸**
 
 <h3 align="left">Connect with me:</h3>
 
