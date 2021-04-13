@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Bastos</h1>
-<h3 align="center">A fullstack developer from Brazil based in UK</h3>
+<h3 align="center">A fullstack developer based in UK</h3>
 
 - 🌱 I’m currently learning **Javascript, Nodejs, Reactjs, React Native, Typescript**
 
